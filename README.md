@@ -3,3 +3,4 @@ These are my notes from when I studied CS50's Python.
 
 | Name | Description | Start Date | End Date |
 |------|-------------|------------|----------|
+|Functions, Variables| in progress | 06/09/2025 |  |
